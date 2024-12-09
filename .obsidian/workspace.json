@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "d4a011d88bffc397",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf7dabe9db91bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c39b5fed7cadca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "过知识点汇总的所有标红考点.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "过知识点汇总的所有标红考点"
+            }
+          },
+          {
+            "id": "90e8b0d0c5136420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 链路层与局域网/5.4 大综合：Web页面的请求过程.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4 大综合：Web页面的请求过程"
+            }
+          },
+          {
+            "id": "71011c3429e61406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "x 往年期末卷/3 2019.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 2019"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a777df26c628e5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8afbdbbbc39eee50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "533fcb02297edd1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93caa046003dc79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b765b2c181b03f3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2db695c7dc871bd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "430f78cd1921d13e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57de2586496d1057",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5dedd64dd81949d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f437248ff170baeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 应用层/2.x 第二章作业.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.x 第二章作业 的反向链接列表"
+            }
+          },
+          {
+            "id": "57dc246eb16b016d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 应用层/2.x 第二章作业.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.x 第二章作业 的出链列表"
+            }
+          },
+          {
+            "id": "94d5bdc86ae815d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2d2ec57d79f016f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "b765b2c181b03f3f",
+  "lastOpenFiles": [
+    "过知识点汇总的所有标红考点.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/8 2021B.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/6 2020B.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/5 2020A.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/4 2019B.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/3 2019.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/2 2018.md.baiduyun.uploading.cfg",
+    "x 往年期末卷/1 2017.md.baiduyun.uploading.cfg",
+    "image/虚电路示意图.png.baiduyun.uploading.cfg",
+    "image/捎带确认.png.baiduyun.uploading.cfg",
+    "image/umass.png.baiduyun.uploading.cfg",
+    "x 往年期末卷/2 2018.md",
+    "5 链路层与局域网/5.4 大综合：Web页面的请求过程.md",
+    "5 链路层与局域网/5.x 第五章课后习题.md",
+    "x 往年期末卷/5 2020A.md",
+    "x 往年期末卷/1 2017.md",
+    "x 往年期末卷/4 2019B.md",
+    "x 往年期末卷/3 2019.md",
+    "6 无线网络/6.x 第六章课后题目.md",
+    "x 往年期末卷/8 2021B.md",
+    "过知识点汇总的所有标红考点.md",
+    "6 无线网络/6.2 无线链路和网络特性.md",
+    "2 应用层/2.x 第二章作业.md",
+    "6 无线网络/6.1 无线网络与移动网络概述.md",
+    "5 链路层与局域网/5.3 交换局域网.md",
+    "4 网络层/4.x 第四章课后习题.md",
+    "3 运输层/3.x 第三章课后习题.md",
+    "2 应用层/2.x2 第二章课后习题.md",
+    "1 计算机网络概述/1.x 第一章作业.md",
+    "4 网络层/4.4 选路算法.md",
+    "3 运输层/3.4 拥塞控制.md",
+    "5 链路层与局域网/5.2 多路访问链路和协议.md",
+    "5 链路层与局域网/5.1 链路层概述.md",
+    "x 往年期末卷/6 2020B.md",
+    "4 网络层/4.3 网络层协议大全.md",
+    "4 网络层/4.2 IP协议与IP地址.md",
+    "10855FAA.png",
+    "image/2021_B_6.png",
+    "image/2021_B_5.png",
+    "image/2021_B_4.png",
+    "image/2021_B_3.png",
+    "image/2021_B_2.png",
+    "image/2021_B_1.png",
+    "image/2020_B_4.png",
+    "image/2020_B_2.png",
+    "image/2020_B_1.png"
+  ]
+}
